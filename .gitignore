@@ -1,0 +1,35 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local extraction and temporary files
+_extracted/
+_pdf_extract_tmp.txt
+23251008201*/
+专项/
+旧数据/
+新数据/
+相关资料/
+_归档过程文件/
+大纲.docx
+目录.docx
+**/results_backup_*/
+**/*备份*
+
+# Research exports and row-level artifacts are local-only.
+analysis/data/raw/
+analysis/data/processed/
+analysis/results/models/
+analysis/results/tables/annotation_task.csv
+analysis/results/tables/domain_term_candidates.csv
+analysis/results/tables/error_analysis.csv
+analysis/results/tables/label_review.csv
+analysis/results/tables/label_review_notes.txt
+analysis/results/tables/sentiment_predictions.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp

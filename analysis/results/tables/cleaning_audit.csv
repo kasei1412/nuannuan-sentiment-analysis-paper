@@ -1,0 +1,15 @@
+﻿stage,reason,count
+build,build_ad,907
+build,build_duplicate,382
+build,build_empty,2
+build,build_manual_exclusion,9
+build,build_off_topic,14
+build,build_vote,113
+preprocess:comments.csv,preprocess_ad,0
+preprocess:comments.csv,preprocess_duplicate,27
+preprocess:comments.csv,preprocess_empty,0
+preprocess:comments.csv,preprocess_empty_tokens,1
+preprocess:comments.csv,preprocess_low_information,0
+preprocess:comments.csv,preprocess_neutral,0
+preprocess:comments.csv,preprocess_off_topic,0
+preprocess:comments.csv,preprocess_short,4

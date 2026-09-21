@@ -1,0 +1,6 @@
+﻿event,event_name,phase,phase_name,source_type,source_name,n,svm_positive,svm_negative,svm_positive_ratio,svm_negative_ratio,weak_positive,weak_negative,weak_neutral
+engine_2024,2024引擎升级,post,后窗,search,搜索博文,492,302,190,0.6138,0.3862,123,113,256
+engine_2024,2024引擎升级,pre,前窗,search,搜索博文,318,229,89,0.7201,0.2799,74,32,212
+rebirth_2026,2026新生版,post,后窗,search,搜索博文,336,120,216,0.3571,0.6429,27,94,215
+rebirth_2026,2026新生版,pre,前窗,official_post_comment,官方帖评论,576,498,78,0.8646,0.1354,121,21,434
+rebirth_2026,2026新生版,pre,前窗,search,搜索博文,56,47,9,0.8393,0.1607,23,3,30

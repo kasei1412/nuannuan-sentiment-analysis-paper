@@ -1,0 +1,4 @@
+﻿game,game_name,selected_k,seeds,mean_top10_jaccard
+jqnn,奇迹暖暖,2,"42,43,44",0.4469
+wxnn,无限暖暖,2,"42,43,44",0.389
+yynn,闪耀暖暖,3,"42,43,44",0.5096
